@@ -1,0 +1,7 @@
+﻿  SqStack.cpp
+C:\Users\18265\Desktop\数据结构\SqStack.cpp(16,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+C:\Users\18265\Desktop\数据结构\SqStack.cpp(51,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\18265\Desktop\数据结构\SqStack.cpp(51,9): warning C4101: “n”: 未引用的局部变量
+C:\Users\18265\Desktop\数据结构\SqStack.cpp(73,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  3.25.vcxproj -> D:\biancheng\vs\3.25\x64\Debug\3.25.exe
