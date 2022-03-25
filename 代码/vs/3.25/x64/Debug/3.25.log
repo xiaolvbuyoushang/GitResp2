@@ -1,7 +1,14 @@
-﻿  SqStack.cpp
-C:\Users\18265\Desktop\数据结构\SqStack.cpp(16,1): warning C4005: “OVERFLOW”: 宏重定义
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
-C:\Users\18265\Desktop\数据结构\SqStack.cpp(51,6): warning C4101: “i”: 未引用的局部变量
-C:\Users\18265\Desktop\数据结构\SqStack.cpp(51,9): warning C4101: “n”: 未引用的局部变量
-C:\Users\18265\Desktop\数据结构\SqStack.cpp(73,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
-  3.25.vcxproj -> D:\biancheng\vs\3.25\x64\Debug\3.25.exe
+﻿  第2题.cpp
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第2题.cpp(21,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第2题.cpp(27,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第2题.cpp(34,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第2题.cpp(40,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  第3题.cpp
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第3题.cpp(84,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第3题.cpp(89,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第3题.cpp(95,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第3题.cpp(100,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  第5题.cpp
+  第6题.cpp
+  第7题.cpp
+  正在生成代码...

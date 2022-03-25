@@ -139,6 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第2题.cpp" />
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第3题.cpp" />
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第5题.cpp" />
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第6题.cpp" />
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第7题.cpp" />
     <ClCompile Include="C:\Users\18265\Desktop\数据结构\SqStack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

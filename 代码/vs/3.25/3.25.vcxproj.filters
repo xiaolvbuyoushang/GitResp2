@@ -18,5 +18,20 @@
     <ClCompile Include="C:\Users\18265\Desktop\数据结构\SqStack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第2题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第3题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第5题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第6题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18265\Desktop\数据结构\2021402040102吕建录(1)\第7题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
