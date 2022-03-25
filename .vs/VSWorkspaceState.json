@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\代码",
-    "\\代码\\c语言",
-    "\\代码\\c语言\\鹏哥C语言视频代码"
+    "\\代码\\vs",
+    "\\代码\\vs\\3.21",
+    "\\代码\\vs\\3.21\\3.21",
+    "\\代码\\vs\\3.21\\x64"
   ],
-  "SelectedNode": "\\代码\\c语言\\鹏哥C语言视频代码\\源1.cpp",
+  "SelectedNode": "\\代码\\vs\\3.21\\3.21\\源.cpp",
   "PreviewInSolutionExplorer": false
 }

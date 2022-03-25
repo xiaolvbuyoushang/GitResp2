@@ -1,0 +1,21 @@
+﻿LinkStack.obj : error LNK2005: "void __cdecl FuncTest(void)" (?FuncTest@@YAXXZ) 已经在 LinkQueue.obj 中定义
+LinkStack.obj : error LNK2005: main 已经在 LinkQueue.obj 中定义
+SqQueue.obj : error LNK2005: "void __cdecl FuncTest(void)" (?FuncTest@@YAXXZ) 已经在 LinkQueue.obj 中定义
+SqQueue.obj : error LNK2005: main 已经在 LinkQueue.obj 中定义
+SqStack.obj : error LNK2005: "void __cdecl FuncTest(void)" (?FuncTest@@YAXXZ) 已经在 LinkQueue.obj 中定义
+SqStack.obj : error LNK2005: main 已经在 LinkQueue.obj 中定义
+StudentEx_SqList(1).obj : error LNK2005: "void __cdecl FuncTest(void)" (?FuncTest@@YAXXZ) 已经在 LinkQueue.obj 中定义
+StudentEx_SqList(1).obj : error LNK2005: main 已经在 LinkQueue.obj 中定义
+源.obj : error LNK2005: "void __cdecl Conversion(int,int)" (?Conversion@@YAXHH@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "void __cdecl ConversionCase(void)" (?ConversionCase@@YAXXZ) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "void __cdecl FuncTest(void)" (?FuncTest@@YAXXZ) 已经在 LinkQueue.obj 中定义
+源.obj : error LNK2005: "int __cdecl GetTop(struct SqStack &,int)" (?GetTop@@YAHAEAUSqStack@@H@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "int __cdecl InitStack(struct SqStack &)" (?InitStack@@YAHAEAUSqStack@@@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "int __cdecl Pop(struct SqStack &,int &)" (?Pop@@YAHAEAUSqStack@@AEAH@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "void __cdecl PrintStack(struct SqStack)" (?PrintStack@@YAXUSqStack@@@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "int __cdecl Push(struct SqStack &,int)" (?Push@@YAHAEAUSqStack@@H@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "int __cdecl StackEmpty(struct SqStack)" (?StackEmpty@@YAHUSqStack@@@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "int __cdecl StackLength(struct SqStack)" (?StackLength@@YAHUSqStack@@@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: "char __cdecl inttochar(int)" (?inttochar@@YADH@Z) 已经在 SqStack.obj 中定义
+源.obj : error LNK2005: main 已经在 LinkQueue.obj 中定义
+D:\GIT\GitResp2\代码\vs\3.21\x64\Debug\3.21.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
